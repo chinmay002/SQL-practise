@@ -1,1 +1,1 @@
-# SQL-practise
+# SQL-practise daily
